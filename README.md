@@ -17,3 +17,10 @@ Do below
 2. Search in any format any word if it has it well tell you answer.
 
 ## good in case you want to learn python
+
+
+## if you want to run the analysis on atable and figure out the actual error and faklse error ;
+
+Use the pwr_audit_ds.ipynb in jupyter notebbok.
+
+## Good for Data Visulaization examples
