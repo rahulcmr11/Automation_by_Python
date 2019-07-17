@@ -19,13 +19,13 @@ Do below
 ** good in case you want to learn python
 
 
-## 4. if you want to run the analysis on atable and figure out the actual error and false error ;
+## 4. if you want to run the analysis on a table and figure out the actual error and false error.
 
 Use the pwr_audit_ds.ipynb in jupyter notebbok.
 
 ** Good for Data Visulaization examples
 
-## 5. Do some Webscrapping using Python on magic brick.com.
+## 5. Do some Webscrapping using Python on magicbricks.com
 use web_scrapping_python.ipynb in jupyter notebook
 
 ** Good for developers learning webscrapping
