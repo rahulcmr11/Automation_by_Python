@@ -10,3 +10,10 @@ Do below
   a. Make sure psycopg2 "a python module is installed". to support Postgresql and GP DB 
 2. For any other DB just install and import the required DB module and change from postgresql to another DB. 
 ## and this will run without manually running each queries.
+
+## if you want to make small dictionary of words 
+
+1. use Small_data_Dictionary.py and dictionary used here is data.json
+2. Search in any format any word if it has it well tell you answer.
+
+## good in case you want to learn python
