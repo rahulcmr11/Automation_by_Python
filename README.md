@@ -29,3 +29,10 @@ Use the pwr_audit_ds.ipynb in jupyter notebbok.
 use web_scrapping_python.ipynb in jupyter notebook
 
 ## Good for developers learning webscrapping
+
+## 7. If you want to terminate AWS Sagemaker Running instances automatically at scheduled time use this as a lambda function.
+boto3 is used to implement AWS from python
+use sm_jupyter_terminate.py.
+Make a zip file with all supporting lib of python and sm_jupyter_terminate.py and upload it in s3 bucket.
+Point the lambda function to run from that bucket
+
