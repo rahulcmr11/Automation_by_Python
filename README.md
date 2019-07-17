@@ -36,3 +36,8 @@ use sm_jupyter_terminate.py.
 Make a zip file with all supporting lib of python and sm_jupyter_terminate.py and upload it in s3 bucket.
 Point the lambda function to run from that bucket
 
+## 8. To work and practice NLP use this NLP Project .ipynb
+Run it in jupyter notebook
+yelp.csv contains messages 
+and this program predicts out the Spam message or a Ham message basedon NLP algo
+
