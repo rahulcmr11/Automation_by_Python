@@ -1,0 +1,3 @@
+
+object:
+ pem_file_path: "/home/ec2-user/deployment_lambda/mypython/lib/python2.7/site-packages/ge-dna-innovation-key.pem"
