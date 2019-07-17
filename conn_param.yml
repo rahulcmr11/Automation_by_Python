@@ -1,3 +1,10 @@
-
 object:
- pem_file_path: "/home/ec2-user/deployment_lambda/mypython/lib/python2.7/site-packages/ge-dna-innovation-key.pem"
+ hostname: "10.93.20.24"
+ dbname: "db_name"
+ port: "5432"
+ username: "user id"
+ query_dir_path: "path_where you have all SQL function"
+ schema_name: "schema name"
+ role_name: "role if any "
+ queries_to_run_in_order: "N"
+ steps_order_files: "steps where order is defined keep N "queries_to_run_in_order" if no order needed , and Y if order needed"
