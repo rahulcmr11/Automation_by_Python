@@ -1,0 +1,66 @@
+[
+     {
+          "ParameterKey": "NotebookInstanceType",
+          "ParameterValue": "xxxxxxxxxxxx"
+     },
+     {
+          "ParameterKey": "cftstackname",
+          "ParameterValue": "xxxxxxxxxxxx"
+     },
+     {
+          "ParameterKey": "NotebookInstanceName",
+          "ParameterValue": "xxxxxxxxxxxx"
+     },
+     {
+          "ParameterKey": "emailsender",
+          "ParameterValue": "xxxxxxxxxxxx"
+     },
+     {
+          "ParameterKey": "emailreceivers",
+          "ParameterValue": "xxxxxxxxxxxx,xxxxxxxxxxxx"
+     },
+     {
+          "ParameterKey": "mlrolename",
+          "ParameterValue": "xxxxxxx"
+     },
+     {
+          "ParameterKey": "SageMakerRoleArn",
+          "ParameterValue": "arn:aws:iam::753920291680:role/AmazonSageMaker-ExecutionRole-20191108"
+     },
+     {
+          "ParameterKey": "VPC",
+          "ParameterValue": "vpc-28acc64e"
+     },
+     {
+          "ParameterKey": "SubnetId",
+          "ParameterValue": "subnet-3b7e5c60"
+     },
+     {
+          "ParameterKey": "SecurityGroupId",
+          "ParameterValue": "sg-017e7970"
+     },
+     {
+          "ParameterKey": "LifecycleConfigName",
+          "ParameterValue": "refer-notebook-name"
+     },
+     {
+          "ParameterKey": "TagKey",
+          "ParameterValue": "ge-sagemaker-power-dev"
+     },
+     {
+          "ParameterKey": "TagId",
+          "ParameterValue": "UAI3030911"
+     },
+     {
+          "ParameterKey": "DirectInternetAccess",
+          "ParameterValue": "Enabled"
+     },
+     {
+          "ParameterKey": "multiplereceivers",
+          "ParameterValue": "Add multiple_receivers in single quotes('')..this key/values is  for ignorance only"
+     },
+     {
+          "ParameterKey": "SageMakerS3Bucket",
+          "ParameterValue": "NotebookInstanceName"
+     }
+]
