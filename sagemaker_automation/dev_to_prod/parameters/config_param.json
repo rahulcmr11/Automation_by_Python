@@ -1,0 +1,26 @@
+[
+  {
+    "ParameterValue": "PMX-Classification-Demo-Endpoint",
+    "ParameterKey": "Reference_endpoint_dev"
+  },
+  {
+    "ParameterValue": "project1-automation",
+    "ParameterKey": "Project_name"
+  },
+  {
+    "ParameterValue": "https://github.build.ge.com/Talend-Power-Dev/ML_Sagemaker_Model.git",
+    "ParameterKey": "gitProjectUrl"
+  },
+  {
+    "ParameterValue": "/sagemaker_builts/",
+    "ParameterKey": "TargetDir"
+  },
+  {
+    "ParameterValue": "Consumer_policy_for_PROD.json",
+    "ParameterKey": "Policy_Json"
+  },
+  {
+    "ParameterValue": "dummyge",
+    "ParameterKey": "policy_arn"
+  }
+]
