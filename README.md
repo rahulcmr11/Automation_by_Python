@@ -41,3 +41,8 @@ Run it in jupyter notebook
 yelp.csv contains messages 
 and this program predicts out the Spam message or a Ham message basedon NLP algo
 
+## 8. Search for word in multiple excel workboork and each excel workbook will have multiple excel sheets. Use search-word-in-excels.py
+In 1 directory keep all excel workbook only where we have to search words
+Run the program xlrd and openpyxl modules should be available.
+The program will print outputs with row_id and column id where the word can be found.
+
